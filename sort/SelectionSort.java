@@ -1,6 +1,6 @@
 package sort;
 
-class Main {
+class SelectionSort {
 
 
     public static void main(String[] args) {
