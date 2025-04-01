@@ -1,6 +1,26 @@
 package data_structure;
 
 public class StackMain {
+
+    public static void main(String[] args) {
+
+
+        Stack stck=new Stack();
+        stck.push(1);
+        stck.push(2);
+        stck.push(3);
+        stck.push(4);
+        stck.push(5);
+
+        System.out.println(stck.peek());
+        System.out.println(stck.peek());
+        System.out.println(stck.pop());
+        System.out.println(stck.pop());
+        System.out.println(stck.pop());
+       stck.show();
+    }
+
+
 }
 
 class Stack {
@@ -17,6 +37,16 @@ class Stack {
         top--;
         data=stack[top];
         stack[top]=0;
+        return data;
+
+
+    }
+
+    public int peek(){
+
+        int data;
+        top--;
+        data=stack[top];
         return data;
 
 
