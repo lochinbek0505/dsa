@@ -1,7 +1,7 @@
 # Java DSA Algorithms
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/github/license/yourusername/your-repo?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license//lochinbek0505/dsa/)
 
 ## 📌 About the Project
 This repository contains a collection of fundamental and advanced **Data Structures and Algorithms (DSA)** implemented in **Java**. The goal of this project is to provide efficient and well-structured implementations of algorithms that can help developers, students, and competitive programmers.
