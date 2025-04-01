@@ -36,16 +36,10 @@ This repository contains a collection of fundamental and advanced **Data Structu
 
 ## 📖 Algorithms Covered
 ### ✅ Sorting Algorithms
-- Bubble Sort
 - Selection Sort
 - Insertion Sort
 - Merge Sort
 - Quick Sort
-- Heap Sort
-
-### 🔍 Searching Algorithms
-- Linear Search
-- Binary Search (Iterative & Recursive)
 
 ### 🌳 Tree Algorithms
 - Binary Search Tree (BST)
@@ -71,11 +65,11 @@ This repository contains a collection of fundamental and advanced **Data Structu
 ## 🔧 Installation & Usage
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/lochinbek0505/dsa
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd your-repo
+   cd dsa
    ```
 3. **Compile and run the project:**
    ```sh
@@ -100,8 +94,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 📞 Contact
 For any inquiries or suggestions, feel free to contact me:
-- **Email:** your-email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** lbek458@gmail.com
+- **GitHub:** [lochinbek0505](https://github.com/lochinbek0505)
 
 ---
 Happy Coding! 🚀
